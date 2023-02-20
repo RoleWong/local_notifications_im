@@ -8,7 +8,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_local_notifications/flutter_local_notifications.dart';
+import 'package:local_notifications_for_us/local_notifications_for_us.dart';
 import 'package:flutter_native_timezone/flutter_native_timezone.dart';
 import 'package:http/http.dart' as http;
 import 'package:image/image.dart' as image;

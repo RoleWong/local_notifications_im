@@ -1,6 +1,6 @@
 # flutter_local_notifications_example
 
-Demonstrates how to use the flutter_local_notifications plugin.
+Demonstrates how to use the local_notifications_for_us plugin.
 
 ## Getting Started
 
